@@ -35,3 +35,7 @@ This portfolio is one of my first steps toward building and learning publicly!
 - Deployed using GitHub Pages
 
 ---
+
+## Screenshots
+
+- https://github.com/Krishnaa-Kumar/Portfolio/blob/main/UI.png
