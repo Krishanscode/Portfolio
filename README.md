@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio website — a place where I showcase who I am and what I do!
 
-🔗 **Live Site**: (https://krishnaa-kumar.github.io/Portfolio/)
+🔗 [Live Demo](https://krishnaa-kumar.github.io/Portfolio/)
 
 ---
 
