@@ -38,4 +38,4 @@ This portfolio is one of my first steps toward building and learning publicly!
 
 ## Screenshots
 
-- https://github.com/Krishnaa-Kumar/Portfolio/blob/main/UI.png
+- ![Portfolio UI](https://github.com/Krishnaa-Kumar/Portfolio/blob/main/UI.png?raw=true)
